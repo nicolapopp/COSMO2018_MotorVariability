@@ -1,0 +1,8 @@
+#to install stodynprog
+#go inside the directory
+
+#run:
+make inplace
+
+#
+export PYTHONPATH='/path/to/stodynprog/git-repositery':$PYTHONPATH
